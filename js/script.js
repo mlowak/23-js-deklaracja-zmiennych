@@ -1,3 +1,5 @@
-let name = 'Martyna'
-let surname = 'Lowak'
-console.log(Martyna)
+let name = 'Martyna';
+
+let surname = 'Lowak';
+
+console.log(Martyna);
