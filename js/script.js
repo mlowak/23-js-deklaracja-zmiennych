@@ -2,4 +2,4 @@ let name = 'Martyna';
 
 let surname = 'Lowak';
 
-console.log(Martyna);
+console.log('Martyna');
